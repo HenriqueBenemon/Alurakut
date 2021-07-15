@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 const Box = styled.div`
-  background: #ffffff;
+  background: wheat;
   border-radius: 8px;
   padding: 16px;
 
   /* CSS Pré-Pronto */ 
   margin-bottom: 10px;
   .boxLink{
-    font-size: 14px;
+    font-size: 12px;
     color: #2e7bb4;
     text-decoration: none;
     font-weight: 800;
@@ -38,7 +38,7 @@ const Box = styled.div`
   }
   input{
     width: 100%;
-    background-color: #f4f4f4;
+    background-color: cornsilk;
     color: #333333;
     border: 0;
     padding: 14px 16px;

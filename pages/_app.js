@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background-color: #D9E6F6;
+    background: url('https://wallpapercave.com/wp/wp2041476.jpg') center 80%;
     font-family: sans-serif;
   }
 
